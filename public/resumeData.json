@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Steve Mutsauri",
+    "occupation": "MERNSTACK developer @EPC TECHSPACE",
+    "description": "I eat, sleep and breathe React",
+    "image": "Picture1.png",
+    "bio": "Hi there! I Steve!  I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups  to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained hundred's of developers across the globe. Through online sessions courses and youtube channel,   we deliver REAL VALUE by building REAL WORLD projects. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me",
+    "email": "stevenmutsauri@gmail.com",
+    "phone": "+263 783502537",
+    "address": {
+      "street": "13777 Cowdray Park",
+      "city": "Bulawayo",
+      "state": "Zimbabwe",
+      "zip": "W3B D3V"
+    },
+    "website": "https://www.epctechspace.com",
+    "resumedownload": "http://epctechspace.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC6l6dXXhCMQdW4gP8-Z5wMQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/search/top?q=excellent%20programmer%20community",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/steven-mutsauri-9054a7209/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/stevemutsauri/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/stevenmutsauri",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Nust - Zimbabwe",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "EPC TECHSPACE",
+        "title": "Founder and CEO",
+        "years": "May 2020 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the TECHSPACE Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "HTML CRASH COURSE (React JS)",
+        "category": "",
+        "image": "HTML.jpg",
+        "url": "https://youtu.be/aGCo45A0PVc"
+      },
+      {
+        "title": "React JS COURSE",
+        "category": "",
+        "image": "react.png",
+        "url": "https://youtu.be/he6uXhecImI"
+      },
+      {
+        "title": "advanced react",
+        "category": "",
+        "image": "adr.jpg",
+        "url": "https://youtu.be/A6xa0F8eIUQ"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Steve is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Sissah"
+      },
+      {
+        "text": "Learning with Steve has been AWESOME, he makes learning programming so easy and approachable,",
+        "user": "Nyasha"
+      }
+    ]
+  }
+}
